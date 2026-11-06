@@ -41,7 +41,7 @@ The coordinates describe surveyed training reference points in a local two-dimen
 
 ## Test-point coordinates
 
-File: `Location_test_coordinates_feet.csv` (23 records)
+File: `Location_test_coordinates_feet.csv` (21 records)
 
 | Column | Meaning |
 | --- | --- |
